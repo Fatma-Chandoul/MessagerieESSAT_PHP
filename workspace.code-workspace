@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\Sqli"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Files"
+		},
+		{
+			"path": "..\\Connection"
+		}
+	],
+	"settings": {}
+}
